@@ -1,6 +1,5 @@
 import subprocess
 import sys
-import os
 
 def run_cli(args):
     # Run the module as a script to test the entry point quickly.
